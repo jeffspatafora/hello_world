@@ -1,0 +1,1 @@
+Writes something in the file.
